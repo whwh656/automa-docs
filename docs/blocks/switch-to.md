@@ -1,8 +1,8 @@
 ---
-title: Switch Frame Block
+title: Switch IFrame Block
 ---
 
-# Switch Frame Block
+# Switch IFrame Block
 
 Switch between the main window and [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) element.
 
